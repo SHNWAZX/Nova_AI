@@ -7,7 +7,7 @@
 </p>
 
 
-## 🚀 About novA_ai
+## 🚀 About shnwaz_ai
 
 A **modern, clean and lightweight AI-powered website** showcasing my experiments, UI design, and web development skills.
 
